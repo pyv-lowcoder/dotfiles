@@ -46,4 +46,4 @@ export BROWSER=/mnt/c/Program\ Files\ \(x86\)/Google/Chrome/Application/chrome.e
 sudo /etc/init.d/postgresql start
 
 export PLC=/mnt/c/Users/pyv/pyv-lowcoder
-export PYV=/mnz/c/Users/pyv
+export PYV=/mnz/c/Users/pyvexport BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
